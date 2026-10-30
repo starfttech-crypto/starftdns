@@ -1,5 +1,8 @@
 {
   "dns": "http://expacit.top",
-  "backup": [],
+  "backup": [
+    "http://xpansion.top",
+    "http://nwss.casa"
+  ],
   "proxy": ""
 }
