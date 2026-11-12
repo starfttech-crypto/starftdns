@@ -1,8 +1,9 @@
 {
-  "dns": "http://ilhaazul.cc",
+  "dns": "http://nwss.casa",
   "backup": [
     "http://nwss.casa",
-    "https://expacedlti.top"
+    "https://expacedlti.top",
+    "http://ilhaazul.cc"
   ],
   "proxy": ""
 }
